@@ -1,0 +1,11 @@
+
+Nama      : ari
+Alamat    : gesing
+Phone     : 0838288844
+Pengiriman: Expres
+Pembayaran: Ditempat
+Pesanan   : 
+ - Steak
+ - Spagethi
+ - Pizza
+Total Pembayaran:Rp,170000.0
